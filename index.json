@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-oracledb",
+  "versions": [
+    {
+      "commit": "8708da9bac815c324c895a676bf0a9e97d79c516",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:48:15.657119+00:00"
+    }
+  ]
+}
